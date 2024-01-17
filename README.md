@@ -38,4 +38,4 @@ JavaScript, notably:
 Thanks to:
 * Bootcamp Lessons
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
