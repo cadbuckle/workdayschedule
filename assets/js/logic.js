@@ -88,8 +88,7 @@ function displayTimeBlocks() {
 
     // add button
     var saveBtnEl = $("<button>").addClass("saveBtn col-md-1").attr("id","btn");
-    saveBtnEl.append($("<i>").addClass("fas fa-lock"));
-
+    saveBtnEl.append($("<i>").addClass("material-symbols-outlined").text("save"));
     timeslotRowEl.append(saveBtnEl);
 
     // add row main screen
